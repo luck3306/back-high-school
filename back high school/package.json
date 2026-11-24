@@ -1,0 +1,13 @@
+{
+  "name": "back-high-school",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "《重回高中》零依赖文字剧情游戏",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node --test",
+    "check": "node scripts/validate.mjs",
+    "simulate": "node scripts/simulate.mjs"
+  }
+}
